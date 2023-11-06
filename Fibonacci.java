@@ -1,5 +1,3 @@
-package TwoDArray;
-
 public class Fibonacci {
     public static void fibonacci(int a, int b, int n) {
         if (n == 0) {
